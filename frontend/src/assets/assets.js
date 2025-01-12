@@ -88,210 +88,212 @@ export const specialityData = [
 export const doctors = [
     {
         _id: 'doc1',
-        name: 'Dr. Richard James',
+        name: 'Dr. Nathan Carter',
         image: doc1,
         speciality: 'General physician',
         degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        experience: '5 Years',
+        about: 'Dr. Nathan Carter is a highly skilled general physician with a passion for improving patient well-being through personalized care and preventive health strategies.',
         fees: 50,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '10th Street, Downtown',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc2',
-        name: 'Dr. Emily Larson',
+        name: 'Dr. Olivia Morgan',
         image: doc2,
         speciality: 'Gynecologist',
         degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        experience: '6 Years',
+        about: 'Dr. Olivia Morgan specializes in women’s health, providing expert care in gynecology and obstetrics with a focus on compassionate and thorough treatment.',
         fees: 60,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '24th Avenue, Green Valley',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc3',
-        name: 'Dr. Sarah Patel',
+        name: 'Dr. Alex Taylor',
         image: doc3,
         speciality: 'Dermatologist',
         degree: 'MBBS',
-        experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 30,
+        experience: '3 Years',
+        about: 'Dr. Alex Taylor offers expertise in dermatology, addressing a wide range of skin conditions with a focus on innovative treatments and patient education.',
+        fees: 40,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '33rd Street, Maple Heights',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc4',
-        name: 'Dr. Christopher Lee',
+        name: 'Dr. Henry Scott',
         image: doc4,
-        speciality: 'Pediatricians',
+        speciality: 'Pediatrician',
         degree: 'MBBS',
-        experience: '2 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 40,
+        experience: '8 Years',
+        about: 'Dr. Henry Scott is dedicated to providing comprehensive healthcare for children, ensuring their growth and development in a nurturing environment.',
+        fees: 45,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '45th Lane, Blossom Park',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc5',
-        name: 'Dr. Jennifer Garcia',
+        name: 'Dr. Isabella Smith',
         image: doc5,
         speciality: 'Neurologist',
         degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        experience: '2 Years',
+        about: 'Dr. Isabella Smith is a neurologist with extensive experience in diagnosing and treating neurological disorders with precision and care.',
+        fees: 70,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '59th Street, Riverdale',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc6',
-        name: 'Dr. Andrew Williams',
+        name: 'Dr. Liam Johnson',
         image: doc6,
-        speciality: 'Neurologist',
+        speciality: 'Pediatricians',
         degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        experience: '9 Years',
+        about: 'Dr. Liam Johnson is a compassionate pediatrician dedicated to providing expert medical care and ensuring the health and well-being of children.',
+        fees: 80,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '12th Street, Elmwood',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc7',
-        name: 'Dr. Christopher Davis',
+        name: 'Dr. Matteo Thompson',
         image: doc7,
         speciality: 'General physician',
         degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        experience: '6 Years',
+        about: 'Dr. Ava Thompson is a dedicated general physician who emphasizes holistic patient care and effective communication.',
         fees: 50,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '8th Avenue, Sunrise District',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc8',
-        name: 'Dr. Timothy White',
+        name: 'Dr. Ethan Martinez',
         image: doc8,
-        speciality: 'Gynecologist',
-        degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        speciality: 'Gastroenterologist',
+        degree: 'MBBS, MS',
+        experience: '9 Years',
+        about: 'Dr. Ethan Martinez specializes in gastroenterologist , helping patients in digestive system disorders.',
+        fees: 90,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '17th Street, Evergreen Estates',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc9',
-        name: 'Dr. Ava Mitchell',
+        name: 'Dr. Mia Garcia',
         image: doc9,
         speciality: 'Dermatologist',
-        degree: 'MBBS',
-        experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 30,
+        degree: 'MBBS, MD',
+        experience: '4 Years',
+        about: 'Dr. Mia Garcia focuses on personalized skincare solutions, ensuring patients achieve healthy and radiant skin.',
+        fees: 40,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '22nd Avenue, Pine Ridge',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc10',
-        name: 'Dr. Jeffrey King',
+        name: 'Dr. Noah Clark',
         image: doc10,
         speciality: 'Pediatricians',
-        degree: 'MBBS',
-        experience: '2 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 40,
+        degree: 'MBBS, MD',
+        experience: '5 Years',
+        about: 'Dr. Noah Clark is passionate about providing top-notch healthcare to children, fostering their overall well-being.',
+        fees: 50,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '29th Street, Willowbrook',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc11',
-        name: 'Dr. Zoe Kelly',
+        name: 'Dr. Sophia Rivera',
         image: doc11,
         speciality: 'Neurologist',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        degree: 'MBBS, MD',
+        experience: '8 Years',
+        about: 'Dr. Sophia Rivera is an experienced neurologist, adept at handling complex cases with empathy and expertise.',
+        fees: 75,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '10th Street, Horizon Valley',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc12',
-        name: 'Dr. Patrick Harris',
+        name: 'Dr. Alexander Moore',
         image: doc12,
-        speciality: 'Neurologist',
-        degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        speciality: 'Gastroenterologist',
+        degree: 'MBBS, MD',
+        experience: '10 Years',
+        about: 'Dr. Alexander Moore is a gastroenterologist dedicated to supporting patients in their cancer treatment journey with advanced care.',
+        fees: 100,
         address: {
-            line1: '57th Cross, Richmond',
+            line1: '35th Avenue, Lakeview',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc13',
-        name: 'Dr. Chloe Evans',
+        name: 'Dr. Harper Wilson',
         image: doc13,
         speciality: 'General physician',
         degree: 'MBBS',
-        experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        experience: '3 Years',
+        about: 'Dr. Harper Wilson prioritizes preventive medicine and early diagnosis to ensure long-term patient health.',
         fees: 50,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '14th Avenue, Midtown',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc14',
-        name: 'Dr. Ryan Martinez',
+        name: 'Dr. Elijah Walker',
         image: doc14,
         speciality: 'Gynecologist',
-        degree: 'MBBS',
-        experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        degree: 'MBBS, MD',
+        experience: '5 Years',
+        about: 'Dr. Elijah Walker provides comprehensive gynecological care, ensuring the comfort and safety of his patients.',
+        fees: 70,
         address: {
-            line1: '27th Cross, Richmond',
+            line1: '50th Street, Central District',
+            line2: 'Springfield, USA'
         }
     },
     {
         _id: 'doc15',
-        name: 'Dr. Amelia Hill',
+        name: 'Dr. Lily Robinson',
         image: doc15,
         speciality: 'Dermatologist',
-        degree: 'MBBS',
-        experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 30,
+        degree: 'MBBS, MD',
+        experience: '6 Years',
+        about: 'Dr. Lily Robinson offers state-of-the-art dermatological treatments tailored to each patient’s needs.',
+        fees: 60,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '42nd Avenue, Oakwood',
+            line2: 'Springfield, USA'
         }
     },
-]
+];
